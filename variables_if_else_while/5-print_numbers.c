@@ -14,7 +14,7 @@ int main(void)
 	{
 	printf("%d", numbers);
 	}
-putchar('n');
+putchar('\n');
 return (0);
 }
 

@@ -4,7 +4,7 @@
 * main - prints base
 *
 *
-* return: Always
+* Return: Always
 *
 */
 int main(void)

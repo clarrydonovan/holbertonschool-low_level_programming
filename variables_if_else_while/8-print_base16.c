@@ -3,9 +3,11 @@
 /**
 * main - prints base
 *
-* return Always
 *
-*/int main(void)
+* return: Always
+*
+*/
+int main(void)
 {
 	char character;
 	int number;
